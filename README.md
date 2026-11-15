@@ -1,6 +1,8 @@
 # Hi there, I'm Bliss 👋 
 ### Offensive Security Enthusiast | Web & Network Penetration Testing
-
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 I am an aspiring Red Team Operator focused on finding vulnerabilities, automating reconnaissance, and building custom offensive tools. I believe in understanding the logic behind the exploit, not just running the script.
 
 ---
