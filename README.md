@@ -1,11 +1,30 @@
-# Hi, I'm Bliss 👋
-I am an aspiring Red Teamer and Offensive Security enthusiast focused on Web and Network Hacking.
+# Hi there, I'm Bliss 👋 
+### Offensive Security Enthusiast | Web & Network Penetration Testing
 
-### 🛠️ What I'm working on:
-* Building custom network reconnaissance tools in Python.
-* Studying Web Application Security (OWASP Top 10).
-* Learning Active Directory exploitation and Cloud Pentesting.
+I am an aspiring Red Team Operator focused on finding vulnerabilities, automating reconnaissance, and building custom offensive tools. I believe in understanding the logic behind the exploit, not just running the script.
 
-### 💻 My Tech Stack:
-* **Languages:** Python, Bash, JavaScript
-* **Tools:** Wireshark, Burp Suite, Nmap, Metasploit
+---
+
+### 🚀 Featured Projects
+
+Here are some of the custom tools I have built from scratch:
+
+*   **[WebSweep](https://github.com/Bli1-95CHIB/websweep)**: A custom Python multithreaded network scanner designed to sweep a /24 subnet, identify open web ports, and extract HTTP server banners and HTML titles.
+*   **[CRIPPER-X](https://github.com/Bli1-95CHIB/CRIPPER-X)**: A context-aware wordlist engine. (Add a quick sentence here about what language it's in or what it does!)
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages:** Python, Bash, JavaScript
+**Offensive Tools:** Nmap, Burp Suite, Wireshark, Metasploit
+**Environments:** Linux (WSL/Ubuntu)
+
+---
+
+### 🧠 Currently Learning
+*   Web Application Hacking (OWASP Top 10, SQLi, XSS)
+*   Active Directory Exploitation
+*   Cloud Pentesting (AWS/Azure)
+
+> *"All offensive techniques and tools demonstrated in my repositories were performed in isolated, authorized lab environments for educational purposes only."*
