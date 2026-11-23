@@ -14,6 +14,7 @@ I am an aspiring Red Team Operator focused on finding vulnerabilities, automatin
 Here are some of the custom tools I have built from scratch:
 
 *   **[WebSweep](https://github.com/Bli1-95CHIB/websweep)**: A custom Python multithreaded network scanner designed to sweep a /24 subnet, identify open web ports, and extract HTTP server banners and HTML titles.
+*   **[Scythe-Engine](https://github.com/Bli1-95CHIB/Scythe-Engine)**:
 *   **[CRIPPER-X](https://github.com/Bli1-95CHIB/CRIPPER-X)**: A context-aware wordlist engine. (Add a quick sentence here about what language it's in or what it does!)
 
 ---
